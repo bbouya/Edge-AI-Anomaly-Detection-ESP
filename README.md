@@ -8,6 +8,3 @@ All raw data is stored in the ceiling fan dataset directory.
 Note that if you create a 'robust' model by moving the fan around during data collection, 
 the Autoencoder works much better than the Mahalanobis Distance method.
 
-
-## Prerequisites : 
-You will need to install Tensorflow, Kera, and Jupyter Notebook on your desktop or laptop,
